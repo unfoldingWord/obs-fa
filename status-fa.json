@@ -1,10 +1,1 @@
-{
-  "checking_entity": "translation team", 
-  "checking_level": "1", 
-  "comments": "Level 1 check cleared via email to Tim Jore by translation team.", 
-  "contributors": "ali;chiako;cl184;various", 
-  "publish_date": "2014-07-24", 
-  "source_text": "en", 
-  "source_text_version": "2.0", 
-  "version": "2.1"
-}
+{"checking_entity": "translation team", "checking_level": "1", "comments": "", "contributors": "ali;chiako;cl184;various", "publish_date": "2015-07-23", "source_text": "en", "source_text_version": "3.2", "version": "3.3.1"}
